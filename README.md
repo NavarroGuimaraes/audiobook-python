@@ -10,3 +10,5 @@ To install pyttsx3: ```pip install pyttsx3```
 To install pymupdf: ```pip install pymupdf```
 
 Notice that you must have pip installed in your computer to install the library.
+
+This code will generate an mp3 file containing every text in the pdf file. you can change the pdf to whatever file you want to transform into an audiobook.
